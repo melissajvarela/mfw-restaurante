@@ -31,8 +31,8 @@ background-color: rgba(17, 17, 17, .2);
 .nav li a:hover{
   background-color: transparent;
 }
-nav .navbar{
-  postion: absolute;
+nav.navbar{
+  position: absolute;
   top:100;
   right: 0;
   left: 0;
